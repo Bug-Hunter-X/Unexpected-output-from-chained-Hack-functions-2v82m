@@ -1,0 +1,1 @@
+This repository contains a Hack program demonstrating unexpected output from a chain of function calls. The functions appear to be correctly defined but yield an incorrect result. The bug.hack file contains the buggy code, and bugSolution.hack contains the corrected code and explanation.
